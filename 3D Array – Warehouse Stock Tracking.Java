@@ -1,6 +1,6 @@
 /*
 *Name:Zalik Barasa Juma
-*Reg No: J77-10594-2024m
+*Reg No: J77-10594-2024
 *Description: Program for 3D Array – Warehouse Stock Tracking
 */
 public class WarehouseStock {
@@ -68,4 +68,5 @@ public class WarehouseStock {
         
         System.out.println("\nTotal stock in Warehouse 2: " + totalWarehouse2);
     }
+
 }
